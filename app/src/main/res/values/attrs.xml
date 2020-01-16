@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SlidingTabLayout">
+        <attr name="indicatorDrawable" format="reference" />
+        <attr name="indicatorColor" format="reference|color" />
+        <attr name="indicatorWidth" format="reference|dimension" />
+        <attr name="indicatorHeight" format="reference|dimension" />
+        <attr name="indicatorLeftMargin" format="reference|dimension" />
+        <attr name="indicatorRightMargin" format="reference|dimension" />
+    </declare-styleable>
+
+</resources>
